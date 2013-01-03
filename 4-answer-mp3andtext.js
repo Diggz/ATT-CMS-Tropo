@@ -1,1 +1,1 @@
-say(Welcome to the AT&T Call Management API demo, which works very nicely. Why?  because "http://www.phono.com/audio/troporocks.mp3")
+say("Welcome to the AT&T Call Management API demo, which works very nicely. Why?  because http://www.phono.com/audio/troporocks.mp3")
